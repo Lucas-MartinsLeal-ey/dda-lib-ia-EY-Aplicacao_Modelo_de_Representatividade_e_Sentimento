@@ -1,6 +1,8 @@
 # dda-lib-ia-EY-Aplicacao_Modelo_de_Representatividade_e_Sentimento
 Criado por: lucas.martinsleal@br.ey.com
+
 Atualizado por: lucas.martinsleal@br.ey.com
+
 Data da última atualização: 29/09/2023
 
 ## 1-   Descrição
